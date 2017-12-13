@@ -50,9 +50,9 @@ while cnt < num:
         res += " " + random.choice(l_g3)
     if res not in hashset:
         hashset.add(res)
+        cnt += 1
     if cnt % 1000 == 0:
         print(res)
-    cnt += 1
 
 with open("results.csv", "w") as f:
     for key in hashset:
