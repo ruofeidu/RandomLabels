@@ -1,0 +1,16 @@
+Mountain
+river
+road
+Rainbow
+bridge
+Tree with ladder
+street lamp
+Mountain	river
+river	Rainbow
+Mountain	Rainbow
+Mountain	Tree
+river	road
+road	street lamp
+Tree with ladder	road
+Tree with ladder	river
+Tree with ladder	bridge
