@@ -1,0 +1,4 @@
+Tree
+flower
+grass
+Person

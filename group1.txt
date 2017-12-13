@@ -1,0 +1,5 @@
+Cat	cow	sheep
+Horse	chicken	duck
+Monkey	teddy bear	bird
+Giraffe	butterfly	bee
+Fence

@@ -1,0 +1,5 @@
+Apple	grape	pear
+Banana	mushroom	house
+Car	fence	truck
+Boat	air balloon	table
+picnic pad	tent	bicycle
