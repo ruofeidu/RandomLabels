@@ -1,13 +1,10 @@
 sun
 sun	cloud
-sun	rain
 moon
 moon	star
 moon	star	cloud
 cloud
-cloud	rain
 Snow
 Snow	cloud
 moon	lightning
-cloud	rain	lightning
 Star
